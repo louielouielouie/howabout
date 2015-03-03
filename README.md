@@ -1,9 +1,4 @@
-# howabout
-final web project, risd, 2015
+# ♬
+Soundcloud is a space of audial play on the web. It’s where producers share their work, inspiring each other and listeners alike. Within this online playground have arisen, simultaneously, subgenres of music and colloquialisms born from the internet space. As such, pictorial characters and distinctive modes of expression have entered users’ vocabularies for communication such as emoji/kaomoji, and tagging a song as “luv” or “♡” as opposed to simply, “electronic.” In this way unconventional categorization has now been made conventional by users in the 2nd decade of the 21st century, via a method of tagging that prioritizes the emotions inherent in both music making and appreciation rather than prescribed labeling systems.
 
-what
-
-- what
-- what
-- 
-+ what
+With my final project, I seek to design a new space of discovery wherein these new tagging habits are given precedence, reclaiming the purpose of tagging while keeping the user personalization that seemed to serve to negate the organizational function. 
